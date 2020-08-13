@@ -1,4 +1,14 @@
-### Hi there 👋
+# Thiago Casa Nova 👨‍💻
+
+## Who am I?  
+I'm a software engineer from Brazil 🇧🇷. Currently working as an intern developing solutions, mainly in C#.  
+I'm currently honing my Data Science skills 📈.  
+Universidade Federal de Pernambuco undergraduate 🎓
+
+### 📫 How to reach me:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tcnl)](https://github.com/tcnl)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagocasanova19/)](https://www.linkedin.com/in/thiagocasanova19/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagocasanova19l@gmail.com)](mailto:thiagocasanova19@gmail.com)
 
 <!--
 **tcnl/tcnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
