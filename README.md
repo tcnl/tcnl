@@ -1,7 +1,7 @@
 # Thiago Casa Nova 👨‍💻
 
 ## Who am I?  
-I'm a software engineer from Brazil 🇧🇷. Currently working as an intern developing solutions, mainly in C#.  
+I'm a software engineer from Brazil 🇧🇷. Currently working as a Software Engineer, mainly in C#.  
 I'm currently honing my Data Science skills 📈.  
 Universidade Federal de Pernambuco undergraduate 🎓
 
